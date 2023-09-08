@@ -1,0 +1,5 @@
+%%capture
+if not os.path.exists('/content/ibug_300W_large_face_landmark_dataset'):
+    !wget http://dlib.net/files/data/ibug_300W_large_face_landmark_dataset.tar.gz
+    !tar -xvzf 'ibug_300W_large_face_landmark_dataset.tar.gz'    
+    !rm -r 'ibug_300W_large_face_landmark_dataset.tar.gz'
