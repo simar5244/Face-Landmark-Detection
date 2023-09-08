@@ -1,1 +1,1 @@
-# Face-Landmark-Detection
+"Facial Landmarks Detection with PyTorch" is a comprehensive project that guides you in detecting facial landmarks using Machine Learning. It leverages the DLIB dataset, offering data visualization, data augmentation, and custom dataset classes. With a modified ResNet18 model, it efficiently trains and validates the model for facial landmarks prediction. This project is a valuable resource for anyone interested in incorporating facial landmark detection into their applications.
